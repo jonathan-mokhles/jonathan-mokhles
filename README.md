@@ -1,6 +1,4 @@
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B6BF4&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jonathan+Mokhles;computer+science+student++)](https://git.io/typing-svg)
-</p>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B6BF4&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jonathan+Mokhles;computer+science+student++)](https://git.io/typing-svg)
 I'm Jonathan a passionate student currently studying Computer Science and Artificial Intelligence at Cairo University. I love coding 👨‍💻 and am always eager to learn more and explore the endless possibilities in the world of technology.
 I'm particularly interested in **back-end development and game development**. Although I'm still building my portfolio, I'm excited about the projects I'll create in the future.
 
